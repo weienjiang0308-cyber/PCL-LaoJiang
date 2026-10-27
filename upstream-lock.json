@@ -1,0 +1,46 @@
+{
+  "recordedOn": "2026-10-26",
+  "workspaceStage": "local-development-preview",
+  "candidateUpstream": {
+    "repository": "https://github.com/PCL-Community/PCL-CE.git",
+    "tag": "v2.15.1",
+    "commit": "1a7653127d578efdb2a9388999a3fdc67d9e49d5",
+    "relativePath": "work/upstream/pcl-ce",
+    "modified": false,
+    "licenseScopes": [
+      {
+        "license": "PCL custom license and reasonable-use guide",
+        "licenseFile": "Plain Craft Launcher 2/LICENCE",
+        "path": "Plain Craft Launcher 2/"
+      },
+      {
+        "license": "Apache-2.0 subject to component notices",
+        "licenseFile": "LICENSE",
+        "path": "other directories"
+      }
+    ]
+  },
+  "developmentEnvironment": {
+    "requiredDotnetSdkMajor": 10,
+    "installedDotnetSdks": [
+      "7.0.410"
+    ],
+    "launcherBuilt": true,
+    "projectDotnetSdk": "10.0.403",
+    "projectDotnetRelativePath": "work/tools/dotnet",
+    "launcherTargetFramework": "net10.0-windows"
+  },
+  "derivedLauncher": {
+    "relativePath": "src/PCL-ThirdParty",
+    "product": "Plain Craft Launcher (PCL) 老蒋定制版",
+    "developmentVersion": "1.0.0-p1",
+    "runtime": "self-contained-win-x64",
+    "publicDistributionCleared": false,
+    "displayVersion": "P1"
+  },
+  "localLauncher": {
+    "originalFilesModified": false,
+    "currentExecutableVersion": null,
+    "historicalLogVersion": "Release 2.10.9 (372)"
+  }
+}

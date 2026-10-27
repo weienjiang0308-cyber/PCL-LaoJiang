@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "launcherRetainsOriginal": true,
+  "checks": [
+    {
+      "name": "launcher",
+      "status": "passed",
+      "executable": "D:\\Codex\\PCL-ThirdParty\\PCL老蒋定制版.exe",
+      "preview": "D:\\Codex\\PCL-ThirdParty\\reports\\p1-launcher-exe-icon.png",
+      "pixelMatchRatio": 1
+    },
+    {
+      "name": "installer",
+      "status": "passed",
+      "executable": "D:\\Codex\\PCL-ThirdParty\\artifacts\\PCL老蒋定制版-P1-安装.exe",
+      "preview": "D:\\Codex\\PCL-ThirdParty\\reports\\p1-installer-exe-icon.png",
+      "pixelMatchRatio": 1
+    },
+    {
+      "name": "core",
+      "status": "passed",
+      "executable": "D:\\Codex\\PCL-ThirdParty\\artifacts\\launcher\\Plain Craft Launcher 2.exe",
+      "preview": "D:\\Codex\\PCL-ThirdParty\\reports\\p1-core-exe-icon.png",
+      "pixelMatchRatio": 1
+    }
+  ]
+}

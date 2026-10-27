@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "name": "PCL 第三方版本项目",
+      "path": "."
+    },
+    {
+      "name": "PCL CE v2.15.1 参考源码",
+      "path": "work/upstream/pcl-ce"
+    }
+  ],
+  "settings": {
+    "files.encoding": "utf8",
+    "files.exclude": {
+      "**/bin": true,
+      "**/obj": true
+    },
+    "search.exclude": {
+      "**/bin": true,
+      "**/obj": true
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "originalRepository": "https://github.com/Meloong-Git/PCL",
+  "originalCommit": "e4b0489a22cfd4bc57a18fc1e2ac66d5c18e7fc1",
+  "originalUrl": "https://raw.githubusercontent.com/Meloong-Git/PCL/e4b0489a22cfd4bc57a18fc1e2ac66d5c18e7fc1/Plain%20Craft%20Launcher%202/Images/icon.ico",
+  "originalSha256": "E40A7C7F42E680C3D551747AFD87E7D1F3894FD9C4E9D0FB6F15B3917D698FED",
+  "launcher": "p1-launcher.ico",
+  "launcherUse": "Unmodified original PCL ICO",
+  "installer": "p1-installer.ico",
+  "installerChange": "Original PCL artwork with a lower-right install arrow badge",
+  "installerSizes": [
+    16,
+    20,
+    24,
+    32,
+    40,
+    48,
+    64,
+    96,
+    128,
+    256
+  ],
+  "attribution": "PCL original author: 龙腾猫跃. Independent third-party P1 build; not an official release."
+}

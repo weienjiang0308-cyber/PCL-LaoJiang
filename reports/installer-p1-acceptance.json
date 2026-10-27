@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "installer": "D:\\Codex\\PCL-ThirdParty\\artifacts\\PCL老蒋定制版-P1-安装.exe",
+  "installerSha256": "07344CE6FFF867570442D2FCD9CFF5D8B68B750988585F8C9AA80E2CB5F378A8",
+  "directory": "D:\\Codex\\PCL-ThirdParty\\sandbox\\installer-p1-de13233d92244f7cb3515a0befa23f12\\安装 Test",
+  "install": "passed",
+  "installedHashes": "passed",
+  "upgradePreservesData": "passed",
+  "nativeEntry": "passed",
+  "protectsExistingLauncher": "passed",
+  "uninstallPreservesData": "passed"
+}

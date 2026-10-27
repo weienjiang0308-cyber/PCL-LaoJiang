@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "status": "reference-catalog-not-loaded-at-runtime",
+  "minecraft": {
+    "officialManifest": "https://piston-meta.mojang.com/mc/game/version_manifest_v2.json",
+    "candidateMirrorManifest": "https://bmclapi2.bangbang93.com/mc/game/version_manifest_v2.json",
+    "mirrorLabel": "BMCLAPI 社区镜像",
+    "verifyManifestHashes": true
+  },
+  "modrinth": {
+    "apiBase": "https://api.modrinth.com/v2",
+    "userAgent": "PCL-ThirdParty/0.1.0 (independent-community-fork)",
+    "resourceTypes": ["mod", "shader", "resourcepack", "modpack"]
+  },
+  "curseforge": {
+    "apiBase": "https://api.curseforge.com/v1",
+    "apiKeyEnvironmentVariable": "PCL_THIRDPARTY_CURSEFORGE_API_KEY",
+    "configured": false
+  },
+  "fabric": { "metadataBase": "https://meta.fabricmc.net/v2" }
+}

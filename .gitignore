@@ -1,0 +1,27 @@
+**/bin/
+**/obj/
+.vs/
+sandbox/
+.env
+.env.*
+!.env.example
+*.user
+*.suo
+config/*.local.json
+
+/work/
+/cache/
+/temp/
+/artifacts/
+/PCL老蒋定制版.exe
+
+# Keep local build logs, machine details and sandbox diagnostics off GitHub.
+/reports/*
+!/reports/.gitkeep
+!/reports/installer-p1-acceptance.json
+!/reports/executable-icon-check.json
+!/reports/p1-window-zh-CN.png
+!/reports/p1-window-en-US.png
+!/reports/installer-explorer-icon.png
+**/__pycache__/
+*.pyc
